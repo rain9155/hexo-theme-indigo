@@ -42,7 +42,8 @@ favicon: /img/favicon.ico
 email: jianyu9155@gmail.com
 
 # 设置 Android L Chrome 浏览器状态栏颜色
-color: '#3F51B5'
+# #3f51b5
+color: '#009688'
 
 # 页面标题
 tags_title: Tags
