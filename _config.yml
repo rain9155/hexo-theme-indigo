@@ -23,10 +23,17 @@ menu:
   github:
     url: https://github.com/rain9155
     target: _blank
-  link:
+  gg:
     text: Juejin
     url: https://juejin.im/user/5b437173e51d45191d79c27a/posts
     target: _blank
+  eye:
+    text: CSDN
+    url: https://blog.csdn.net/Rain_9155
+    target: _blank
+  link:
+    text: links
+    url: /links
 
 
 # 你的头像url
@@ -53,7 +60,7 @@ categories_title: Categories
 # 文章截断
 excerpt_render: false
 excerpt_length: 200
-excerpt_link: 阅读全文...
+excerpt_link: ...
 mathjax: false
 archive_yearly: true
 
@@ -65,7 +72,7 @@ share: true
 
 # 是否开启打赏，关闭 reward: false
 reward:
-  title: 谢谢!
+  title: 谢谢打赏!
   wechat: /img/wechat.jpg     #微信，关闭设为 false
   alipay: /img/alipay.jpg     #支付宝，关闭设为 false
 
@@ -152,7 +159,7 @@ canonical: false
 since_year: 2018
 
 # 用户页面中作者相关的描述性文字，如不需要设为 false
-about: 用户页面中作者相关的描述性文字，如不需要设为 false
+about: 大家好！我是rain9155，一名热爱Android开发的在读本科生
 
 # “不蒜子”访问量统计，详见 http://ibruce.info/2015/04/04/busuanzi/
 #visit_counter:
